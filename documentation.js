@@ -31,5 +31,12 @@ et maintenant le code de "app-a-deployer" est dans github
        NB:  Pour créer un compte il netlify faut aller sur ton github et fait déployer il te créera un compte netifly avec les identifants de ton ghitbub
 
 
+
+
+
+
+       
+
+
 */
 
